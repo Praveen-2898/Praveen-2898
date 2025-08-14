@@ -20,12 +20,11 @@ Enthusiastic and detail-oriented **fresher in Data Analytics** with a strong fou
 - 📚 Actively expanding knowledge in **statistics, visualization techniques, and reporting tools**.  
 
 ---
-### 💻 Tools & Technologies  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-</p>
+## 📜 Certifications
+
+### Data Analytics + Python Certification  
+Achieved **Data Analytics + Python Certification** (Issued July 31, 2025 — Certificate ID: 0E9BRLHS) through Skillovilla.  
+Skills Covered: Data Analysis, SQL, Excel, Python, Power BI, Data Visualization, and Statistical Analysis.
+
+[![Certificate Preview](https://img.icons8.com/external-flat-juicy-fish/344/external-certificate-education-flat-flat-juicy-fish.png)](https://www.skillovilla.com/certificate/0E9BRLHS)  
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-Open%20Certificate-blue?style=for-the-badge)](https://www.skillovilla.com/certificate/0E9BRLHS)
